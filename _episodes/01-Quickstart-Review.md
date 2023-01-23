@@ -29,7 +29,7 @@ objectives:
 * 1” margins
 
 ### When is it due?
-Feb 20
+Feb 13
 
 ### How do I turn it in?
 Email me your essay.

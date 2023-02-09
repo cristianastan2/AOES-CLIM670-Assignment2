@@ -13,11 +13,10 @@ objectives:
 
 Table 1
 
-| --- | --- | --- | --- | --- | --- | --- |
-| <span style="font-family: Source Code Pro; padding: 20px; background-color: #000000; color: #fff;"></span> |
 | **Physics Suites**  | **GFS_v16** | **GFS_v17_p8** | **RAP** | **HRRR** | **RRFS_v1beta** | **WoFS_V0** |
 | --- | --- | --- | --- | --- | --- | --- |
-| Deep Cu | [GFS Scale-Aware Simplified Arakawa Schubert (sa-SAS) Deep Convection Scheme](https://dtcenter.ucar.edu/GMTB/v6.0.0/sci_doc/_g_f_s__s_a_m_fdeep.html) | [GFS Scale-Aware Simplified Arakawa-Schubert (sa-SAS) Deep Convection Scheme + Cellular Automata Stochastic Convective Organization Scheme](https://dtcenter.ucar.edu/GMTB/v6.0.0/sci_doc/_g_f_s__s_a_m_fdeep.html#ca_page) | [Grell-Freitas Scale and Aerosol Aware Convection Scheme](https://dtcenter.ucar.edu/GMTB/v6.0.0/sci_doc/_c_u__g_f.html) | off | off | off | 
+| Deep Cu | [GFS Scale-Aware Simplified Arakawa Schubert (sa-SAS) Deep Convection Scheme](https://dtcenter.ucar.edu/GMTB/v6.0.0/sci_doc/_g_f_s__s_a_m_fdeep.html) | [GFS Scale-Aware Simplified Arakawa-Schubert (sa-SAS) Deep Convection Scheme + Cellular Automata Stochastic Convective Organization Scheme](https://dtcenter.ucar.edu/GMTB/v6.0.0/sci_doc/_g_f_s__s_a_m_fdeep.html#ca_page) | [Grell-Freitas Scale and Aerosol Aware Convection Scheme](https://dtcenter.ucar.edu/GMTB/v6.0.0/sci_doc/_c_u__g_f.html) | off | off | off |
+| Shallow Cu | [GFS SAS-based Mass-Flux Scheme for Shallow convection (sa-MF)](https://dtcenter.ucar.edu/GMTB/v6.0.0/sci_doc/_g_f_s__s_a_m_fshal.html) | [GFS SAS-based Mass-Flux Scheme for Shallow convection (sa-MF)](https://dtcenter.ucar.edu/GMTB/v6.0.0/sci_doc/_g_f_s__s_a_m_fshal.html) | [Grell-Freitas Scale and Aerosol Aware Convection Scheme](https://dtcenter.ucar.edu/GMTB/v6.0.0/sci_doc/_c_u__g_f.html) | [MYNN-EDMF Boundary Layer and Shallow Cloud Scheme](https://dtcenter.ucar.edu/GMTB/v6.0.0/sci_doc/_m_y_n_n_e_d_m_f.html) | [MYNN-EDMF Boundary Layer and Shallow Cloud Scheme](https://dtcenter.ucar.edu/GMTB/v6.0.0/sci_doc/_m_y_n_n_e_d_m_f.html) |[MYNN-EDMF Boundary Layer and Shallow Cloud Scheme](https://dtcenter.ucar.edu/GMTB/v6.0.0/sci_doc/_m_y_n_n_e_d_m_f.html) |
 
 2. 
 

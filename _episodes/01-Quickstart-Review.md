@@ -9,7 +9,7 @@ objectives:
 
 ### What is expected?
 
-1. The physics suites and primary schemes supported in CCPP v6.0.0 are listed in Table 1 adapted from [DTC](https://dtcenter.ucar.edu/GMTB/v6.0.0/sci_doc/allscheme_page.html).
+1. **The physics suites and primary schemes supported in CCPP v6.0.0** are listed in Table 1 adapted from [DTC](https://dtcenter.ucar.edu/GMTB/v6.0.0/sci_doc/allscheme_page.html).
 
 Table 1
 
@@ -26,9 +26,9 @@ Table 1
 | **Sea Ice** | [GFS Sea Ice Scheme](https://dtcenter.ucar.edu/GMTB/v6.0.0/sci_doc/_g_f_s__s_f_c_s_i_c_e.html) | [GFS Sea Ice Scheme](https://dtcenter.ucar.edu/GMTB/v6.0.0/sci_doc/_g_f_s__s_f_c_s_i_c_e.html) | [RUC Land Surface Model](https://dtcenter.ucar.edu/GMTB/v6.0.0/sci_doc/_r_u_c_l_s_m.html) | [RUC Land Surface Model](https://dtcenter.ucar.edu/GMTB/v6.0.0/sci_doc/_r_u_c_l_s_m.html) | [GFS Sea Ice Scheme](https://dtcenter.ucar.edu/GMTB/v6.0.0/sci_doc/_g_f_s__s_f_c_s_i_c_e.html) | [GFS Sea Ice Scheme](https://dtcenter.ucar.edu/GMTB/v6.0.0/sci_doc/_g_f_s__s_f_c_s_i_c_e.html) |
 |  |  |  |  |  |  |  |
 
-2. Observations available to drive the SCM are:
+2. **Observations available** to drive the SCM are:
 
-![Tropical Warm Pool - International Cloud Experiment](https://github.com/cristianastan2/AOES-CLIM670-Assignment2/tree/gh-pages/fig/TWP-ICE.pdf)
+![Tropical Warm Pool - International Cloud Experiment](../fig/TWP-ICE.pdf)
 
 3. 
 

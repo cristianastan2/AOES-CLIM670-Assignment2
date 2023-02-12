@@ -26,7 +26,8 @@ Table 1
 | **Sea Ice** | [GFS Sea Ice Scheme](https://dtcenter.ucar.edu/GMTB/v6.0.0/sci_doc/_g_f_s__s_f_c_s_i_c_e.html) | [GFS Sea Ice Scheme](https://dtcenter.ucar.edu/GMTB/v6.0.0/sci_doc/_g_f_s__s_f_c_s_i_c_e.html) | [RUC Land Surface Model](https://dtcenter.ucar.edu/GMTB/v6.0.0/sci_doc/_r_u_c_l_s_m.html) | [RUC Land Surface Model](https://dtcenter.ucar.edu/GMTB/v6.0.0/sci_doc/_r_u_c_l_s_m.html) | [GFS Sea Ice Scheme](https://dtcenter.ucar.edu/GMTB/v6.0.0/sci_doc/_g_f_s__s_f_c_s_i_c_e.html) | [GFS Sea Ice Scheme](https://dtcenter.ucar.edu/GMTB/v6.0.0/sci_doc/_g_f_s__s_f_c_s_i_c_e.html) |
 |  |  |  |  |  |  |  |
 
-2. 
+2. Observations available to drive the SCM are:
+
 
 3. 
 

@@ -26,9 +26,13 @@ objectives:
 2. **Observations available** to drive the SCM are:
 
 ![Tropical Warm Pool - International Cloud Experiment](/fig/TWP-ICE.pdf)
+
 ![Atmosphere Radiation Measurement Southern Great Plains](/fig/ARM-SGP.pdf)
+
 ![Atlantic Stratocumulus to Cumulus Transition Experiment](/fig/ASTEX.pdf)
+
 ![LES ARM Symbiotic Simulation and Observation](/fig/LASSO.pdf)
+
 ![Barbados Oceanographic and Meteorological EXperiment](/fig/BOMEX.pdf)
 3. 
 

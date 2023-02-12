@@ -9,9 +9,7 @@ objectives:
 
 ### What is expected?
 
-1. **The physics suites and primary schemes supported in CCPP v6.0.0** are listed in Table 1 adapted from [DTC](https://dtcenter.ucar.edu/GMTB/v6.0.0/sci_doc/allscheme_page.html).
-
-Table 1
+1. **The physics suites and primary schemes supported in CCPP v6.0.0** are listed in the table below adapted from [DTC](https://dtcenter.ucar.edu/GMTB/v6.0.0/sci_doc/allscheme_page.html).
 
 | **Physics Suites**  | **GFS_v16** | **GFS_v17_p8** | **RAP** | **HRRR** | **RRFS_v1beta** | **WoFS_V0** |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -25,11 +23,13 @@ Table 1
 | **Gravity Wave Drag** | [Unified Gravity Wave Physics Scheme - Version 0](https://dtcenter.ucar.edu/GMTB/v6.0.0/sci_doc/_g_f_s__u_g_w_p_v0.html) | [GFS Unified UGWP Scheme](https://dtcenter.ucar.edu/GMTB/v6.0.0/sci_doc/_g_f_s__u_n_i_f_i_e_d__u_g_w_p.html) | [GSL Drag Suite Scheme](https://dtcenter.ucar.edu/GMTB/v6.0.0/sci_doc/_g_f_s_drag_suite.html) | [GSL Drag Suite Scheme](https://dtcenter.ucar.edu/GMTB/v6.0.0/sci_doc/_g_f_s_drag_suite.html) | [Unified Gravity Wave Physics Scheme - Version 0](https://dtcenter.ucar.edu/GMTB/v6.0.0/sci_doc/_g_f_s__u_g_w_p_v0.html) | [Unified Gravity Wave Physics Scheme - Version 0](https://dtcenter.ucar.edu/GMTB/v6.0.0/sci_doc/_g_f_s__u_g_w_p_v0.html) |
 | **Sea Ice** | [GFS Sea Ice Scheme](https://dtcenter.ucar.edu/GMTB/v6.0.0/sci_doc/_g_f_s__s_f_c_s_i_c_e.html) | [GFS Sea Ice Scheme](https://dtcenter.ucar.edu/GMTB/v6.0.0/sci_doc/_g_f_s__s_f_c_s_i_c_e.html) | [RUC Land Surface Model](https://dtcenter.ucar.edu/GMTB/v6.0.0/sci_doc/_r_u_c_l_s_m.html) | [RUC Land Surface Model](https://dtcenter.ucar.edu/GMTB/v6.0.0/sci_doc/_r_u_c_l_s_m.html) | [GFS Sea Ice Scheme](https://dtcenter.ucar.edu/GMTB/v6.0.0/sci_doc/_g_f_s__s_f_c_s_i_c_e.html) | [GFS Sea Ice Scheme](https://dtcenter.ucar.edu/GMTB/v6.0.0/sci_doc/_g_f_s__s_f_c_s_i_c_e.html) |
 |  |  |  |  |  |  |  |
-
 2. **Observations available** to drive the SCM are:
 
 ![Tropical Warm Pool - International Cloud Experiment](/fig/TWP-ICE.pdf)
-
+![Atmosphere Radiation Measurement Southern Great Plains](/fig/ARM-SGP.pdf)
+![Atlantic Stratocumulus to Cumulus Transition Experiment](/fig/ASTEX.pdf)
+![LES ARM Symbiotic Simulation and Observation](/fig/LASSO.pdf)
+![Barbados Oceanographic and Meteorological EXperiment](/fig/BOMEX.pdf)
 3. 
 
 

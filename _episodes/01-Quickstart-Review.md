@@ -49,4 +49,4 @@ objectives:
 Feb 27
 
 ### How do I turn it in?
-Email me your essay.
+Upload your homework to Blackboard.

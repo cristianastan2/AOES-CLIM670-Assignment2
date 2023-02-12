@@ -28,6 +28,7 @@ Table 1
 
 2. Observations available to drive the SCM are:
 
+![Tropical Warm Pool - International Cloud Experiment](https://github.com/cristianastan2/AOES-CLIM670-Assignment2/tree/gh-pages/fig/TWP-ICE.pdf)
 
 3. 
 

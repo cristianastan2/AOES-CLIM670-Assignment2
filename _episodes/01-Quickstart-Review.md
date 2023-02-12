@@ -9,7 +9,7 @@ objectives:
 
 ### What is expected?
 
-1. Select two physics cases designated to simulate ocean (land) environmental conditions.
+1. Select two SCM cases designed to simulate ocean (land) environmental conditions.
 2. Select two physics suites that are relevant for the representation of precipitation in the selecsted environment. 
 3. Conduct simulations for each possible combination of cases and suites (4 experiments). Th elength of the experiment should not exceed 4 days.
 4. Compare the time series of precipitation (mm/day) for all experiments. 

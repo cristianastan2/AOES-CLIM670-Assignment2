@@ -33,15 +33,15 @@ objectives:
 
 **Observations available** to drive the SCM are:
 
-![Tropical Warm Pool - International Cloud Experiment](https://github.com/cristianastan2/AOES-CLIM670-Assignment2/tree/gh-pages/fig/TWP-ICE.png)
+![Tropical Warm Pool - International Cloud Experiment](https://cristianastan2.github.io/AOES-CLIM670-Assignment2/fig/TWP-ICE.png)
 
-![Atmosphere Radiation Measurement Southern Great Plains](https://github.com/cristianastan2/AOES-CLIM670-Assignment2/tree/gh-pages/fig/ARM-SGP.png)
+![Atmosphere Radiation Measurement Southern Great Plains](https://cristianastan2.github.io/AOES-CLIM670-Assignment2/fig/ARM-SGP.png)
 
-![Atlantic Stratocumulus to Cumulus Transition Experiment](https://github.com/cristianastan2/AOES-CLIM670-Assignment2/tree/gh-pages/fig/ASTEX.png)
+![Atlantic Stratocumulus to Cumulus Transition Experiment](https://cristianastan2.github.io/AOES-CLIM670-Assignment2/fig/ASTEX.png)
 
-![LES ARM Symbiotic Simulation and Observation](https://github.com/cristianastan2/AOES-CLIM670-Assignment2/tree/gh-pages/fig/LASSO.png)
+![LES ARM Symbiotic Simulation and Observation](https://cristianastan2.github.io/AOES-CLIM670-Assignment2/fig/LASSO.png)
 
-![Barbados Oceanographic and Meteorological EXperiment](https://github.com/cristianastan2/AOES-CLIM670-Assignment2/tree/gh-pages/fig/BOMEX.png)
+![Barbados Oceanographic and Meteorological EXperiment](https://cristianastan2.github.io/AOES-CLIM670-Assignment2/fig/BOMEX.png)
 
 
 

@@ -46,7 +46,7 @@ objectives:
 
 
 ### When is it due?
-Feb 27
+March 3
 
 ### How do I turn it in?
 Upload your homework to Canvas.

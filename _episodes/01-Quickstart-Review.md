@@ -14,7 +14,7 @@ objectives:
 3. Conduct simulations for each possible combination of cases and suites (4 experiments). The length of the experiment should not exceed 4 days.
 4. Compare the time series of precipitation (mm/day) for all experiments. 
 5. For a period with active/suppressed precipitation compare the vertical profiles of each tendency term of specific humidity (q, units: g kg<sup>-1</sup>/day) and temperature (units: K/day) for all experiments.
-6. Discuss similarities and differences you observee when analyzing your simulations. 
+6. In a 3-page report discuss similarities and differences you observee when analyzing your simulations.
 
 **The physics suites and primary schemes supported in CCPP v7.0.0** are listed in the table below adapted from [DTC](https://dtcenter.ucar.edu/GMTB/v7.0.0/sci_doc/allscheme_page.html).
 
